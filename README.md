@@ -78,7 +78,7 @@ Contributions are welcome! If you'd like to contribute to the Todo App, please f
 
 ## Documentation
 
-- [Development document]([https://flutter.dev/docs/get-started/install](https://docs.google.com/document/d/1yCjENf-iXW6G7ELXkVRqPld9SDjzQnDfVMWPt5Wjfj8/edit?usp=sharing)https://docs.google.com/document/d/1yCjENf-iXW6G7ELXkVRqPld9SDjzQnDfVMWPt5Wjfj8/edit?usp=sharing)
+- [Development document](https://docs.google.com/document/d/1_ZTrhMK0H42QvLtw-BIocEFVWUqTq8gR9uEP3MTmrFw/edit?usp=sharing)
 
 ## License
 
