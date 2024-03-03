@@ -25,6 +25,7 @@ Make sure you have the following installed on your machine:
 
 - [Flutter](https://flutter.dev/docs/get-started/install)
 - [Dart](https://dart.dev/get-dart)
+- [Firebase](https://console.firebase.google.com/)
 
 ### Installation
 
@@ -32,7 +33,7 @@ Follow these steps to get the Todo App up and running:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/todo-app.git
+git clone [https://github.com/your-username/todo-app.git](https://github.com/sakthi2943/To-Do-App.git)
 
 # Navigate to the project directory
 cd todo-app
@@ -44,6 +45,8 @@ flutter pub get
 flutter run
 ```
 
+- **Firebase:** Create your firebase project with email authentication.
+ 
 ## Features
 
 - **Task Management:** Add, delete and see the description of tasks.
@@ -63,7 +66,6 @@ flutter run
    - Tap on the delete icon to delete the task.
    - Confirm deletion.
 
-
 ## Contributing
 
 Contributions are welcome! If you'd like to contribute to the Todo App, please follow these steps:
@@ -73,6 +75,10 @@ Contributions are welcome! If you'd like to contribute to the Todo App, please f
 3. Make your changes and commit them (`git commit -m 'Add your feature'`)
 4. Push to the branch (`git push origin feature/your-feature`)
 5. Open a pull request
+
+## Documentation
+
+- [Development document]([https://flutter.dev/docs/get-started/install](https://docs.google.com/document/d/1yCjENf-iXW6G7ELXkVRqPld9SDjzQnDfVMWPt5Wjfj8/edit?usp=sharing)https://docs.google.com/document/d/1yCjENf-iXW6G7ELXkVRqPld9SDjzQnDfVMWPt5Wjfj8/edit?usp=sharing)
 
 ## License
 
