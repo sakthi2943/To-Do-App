@@ -46,7 +46,22 @@ flutter run
 ```
 
 - **Firebase:** Create your firebase project with email authentication.
- 
+- Find this code in main.dart and replace with your firebase credentials
+
+ ```bash
+#Replace the credentials of your firebase project
+ await Firebase.initializeApp(
+    options: const FirebaseOptions(
+      apiKey: 'API-key',
+      projectId: 'ProectID',
+      appId: 'APPID',
+      messagingSenderId: 'SenderID',
+    ),
+  );
+```
+
+Refer this [link](https://firebase.google.com/docs/flutter/setup?platform=android) for Firebase-Flutter configuration
+
 ## Features
 
 - **Task Management:** Add, delete and see the description of tasks.
